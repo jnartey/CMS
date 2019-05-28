@@ -1,0 +1,9 @@
+Known issues
+1. Header info does not update on page load
+
+Todo
+1. User account page
+2. Add profile image
+3. Fix user accounts page and delete all button
+4. Roles page and access control feature
+5. CMS Config Email & Newsletter recipients
