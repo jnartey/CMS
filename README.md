@@ -31,4 +31,5 @@ npm install
 ## Login details
 
 _Username:_ jacob@fifthlightmedia.com
+
 _Password:_ 123456789
