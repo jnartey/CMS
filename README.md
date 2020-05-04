@@ -1,4 +1,4 @@
-## Fifth Light Media CMS Client
+## CMS Client
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -30,6 +30,6 @@ npm install
 
 ## Login details
 
-_Username:_ jacob@fifthlightmedia.com
+_Username:_ jacob@gmail.com
 
 _Password:_ 123456789
